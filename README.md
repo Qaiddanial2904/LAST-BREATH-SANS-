@@ -1,8 +1,11 @@
 # Last Breath Sans Remake 
 
-A custom moveset inspired by Last Breath Sans. 
+A custom moveset inspired by Last 
+Breath Sans. 
 
- The Script that I love to make of course
+ The Script that I love to make of 
+ course
+
  <sub>(My favorite sans) </sub>
 
- make by momongngngng ( Qaid ) 
+	<ins>make by momongngngng ( Qaid ) </ins>
