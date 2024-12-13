@@ -8,4 +8,4 @@ Breath Sans.
 
  <sub>(My favorite sans) </sub>
 
-	<ins>make by momongngngng ( Qaid ) </ins>
+Pls join my server	<ins>https://discord.com/invite/M8NcBgjMEN</ins>
