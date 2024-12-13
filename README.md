@@ -3,6 +3,6 @@
 A custom moveset inspired by Last Breath Sans. 
 
  The Script that I love to make of course
- <sub>(My favorite sans) </sub> text
+ <sub>(My favorite sans) </sub>
 
  make by momongngngng ( Qaid ) 
